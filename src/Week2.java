@@ -6,7 +6,7 @@ public class Week2 extends JFrame{
     // JFrame opens a new window upon execution
     // unlike Frame, it can close the program by clcosing the window
     public static void main(String[] args) throws Exception {
-        Week2 week2 = new Week2();
+        // Week2 week2 = new Week2();
     }
 
     class Canvas extends JPanel {
